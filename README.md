@@ -1,2 +1,2 @@
-# Hi, welcome comrade
-Learning to use github, won't post much for now
+# Hi, welcome comrades
+Learning how to use github, won't post much for now
